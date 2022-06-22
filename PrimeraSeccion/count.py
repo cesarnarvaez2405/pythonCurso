@@ -1,7 +1,7 @@
 a = "i have had an apple on my desk before"
 
-##print(a.count("e"))
-##print(a.count("ha"))
+print(a.count("e"))
+print(a.count("ha"))
 
 z = ['atoms', 4, 'Neutron', 6, 'Hola', 4, 'electron', 4, 'atoms']
 
@@ -21,7 +21,7 @@ seasons = ['winter', 'Spring','Summer', 'fall']
 # ##print(z.index([]))
 # print(z.index(6))
 
-print(seasons.index("Autoumn")) ## error
+# print(seasons.index("Autoumn")) ## error
 
 
 
